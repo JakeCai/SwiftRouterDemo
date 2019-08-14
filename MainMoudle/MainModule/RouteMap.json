@@ -1,0 +1,12 @@
+{
+    "login":{
+        "class":"UserModule.LoginViewModel"
+    },
+    "userProfile":{
+        "class":"UserModule.UserViewModel"
+    },
+    "search":{
+        "class":"SearchModule.SearchViewModel",
+        "url":"https://baidu.com"
+    }
+}

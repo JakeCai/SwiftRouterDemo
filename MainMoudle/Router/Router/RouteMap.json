@@ -1,0 +1,13 @@
+{
+    "login":{
+        "class":"SwiftRouter.LoginViewController"
+    },
+    "userProfile":{
+        "class":"SwiftRouter.UserViewController",
+        "url":""
+    },
+    "search":{
+        "class":"SwiftRouter.UserViewController",
+        "url":"https://baidu.com"
+    }
+}

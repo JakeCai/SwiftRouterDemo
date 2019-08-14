@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SearchModule/SearchModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UserModule/UserModule.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SwiftRouter/SwiftRouter.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/jakecai/Desktop/SwiftRouter/MainMoudle/MainModule.xcodeproj">
+   </FileRef>
+</Workspace>
